@@ -24,7 +24,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/clock-application.git
+git clone https://github.com/gnanaprasads/clock.git
 Navigate to the project directory:
 
 sh
